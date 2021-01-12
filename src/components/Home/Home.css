@@ -1,0 +1,13 @@
+.body{
+   position: absolute;
+    width: 100vh;
+    min-height: 93vh;
+    background-color:#000;
+ 
+    background-image: url(background_01.png);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}

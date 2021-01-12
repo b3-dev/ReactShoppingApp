@@ -1,0 +1,32 @@
+.Content{
+  background-color:#fff;
+}
+
+.cardHeaderProduct{
+
+	background-color: #c0c0c0;
+	font-weight: bold;
+}
+
+.btnProductsItem{
+	color:#BSFFFFF;
+}
+
+.cardProduct{
+	padding: 10px;
+}
+
+.BoxShoppingCar{
+	 position: fixed;
+	 max-width: 400px !important; 
+	 right:0;
+	 margin-right: 30px !important;
+	
+	 z-index:9999;
+
+}
+.BoxShoppingCar .ItemBoxCard{
+		color: #000;
+}
+
+
